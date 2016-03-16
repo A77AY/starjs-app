@@ -1,0 +1,16 @@
+{
+  "name": "starjs-app",
+  "version": "0.0.1",
+  "author": "Rinat Arsaev @krickray",
+  "description": "StarJS App Starter",
+  "keywords": [],
+  "scripts": {
+    "start": "node ./node_modules/starjs/start -c ./cfg/server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7",
+    "starjs": "0.0.9"
+  },
+  "devDependencies": {}
+}
