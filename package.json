@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "path": "^0.12.7",
-    "starjs": "0.0.9"
+    "starjs": "^0.0.10"
   },
   "devDependencies": {}
 }
